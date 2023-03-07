@@ -23,3 +23,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 This project was inspired by the challenges of computer vision and deep learning and built using the knowledge gained from learning Python, TensorFlow, and computer vision techniques.
+   
